@@ -325,7 +325,7 @@ EOF
 service v2ray start
 clear
 
-echo '教程地址：https://github.com/FunctionClub/V2ray-Bash/blob/master/README.md'
+echo '教程地址：https://github.com/dinsblog/V2ray-Bash/blob/master/README.md'
 echo '配置完成，客户端配置文件在 /root/config.json'
 echo ''
 echo "程序主端口：$mainport"
